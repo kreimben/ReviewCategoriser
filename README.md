@@ -29,8 +29,8 @@ This model was trained using `IMDB` movie dataset in huggingface.
 
 
 ```bibtex
-@article{Sanh2019DistilBERTAD,
-  title={bert-base-uncased-sentiment-analysis},
+@article{JehwanKim2024BertSentimentAnalaysis,
+  title={bert-sentiment-analysis},
   author={Jehwan Kim},
   year={2024},
 }
